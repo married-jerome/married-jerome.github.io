@@ -22,4 +22,4 @@ function runAway() {
     var audio = new Audio("music/song.mp3");
     audio.loop = true;
     audio.play();
-  }, 8000);
+  }, 4000);
